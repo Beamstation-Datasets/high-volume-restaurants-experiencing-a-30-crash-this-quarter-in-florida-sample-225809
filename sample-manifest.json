@@ -1,12 +1,12 @@
 {
-  "export_job_id": "60510aa5-a2a1-4e73-b916-e7063ae74bcf",
+  "export_job_id": "180da989-f603-4300-a3df-93877f6f95a3",
   "id_short": 225809,
-  "published_at": "2026-04-19T19:50:06Z",
+  "published_at": "2026-04-23T19:58:58Z",
   "repo_name": "high-volume-restaurants-experiencing-a-30-crash-this-quarter-in-florida-sample-225809",
   "sample_asset_name": "beamstation_225809_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/225809/beamstation_225809_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 125,
-  "sample_sha256": "d95e216b28672bf70e07b2598ffdc6dbe4a8314f7db87d7f88da112aa4a645f2",
-  "sample_size_bytes": 527079,
-  "total_records": 1253
+  "sample_records": 133,
+  "sample_sha256": "171e5be4f79b79861f576d63bd13acfe42197e9c53a4d619879587aa5fa85250",
+  "sample_size_bytes": 560382,
+  "total_records": 1335
 }
